@@ -1,0 +1,74 @@
+.line3{
+    font-size: 30px;
+    padding: 10px;
+}
+.nav-join-p{
+    font-size: 15px;
+    opacity: 0.6;
+    margin: 0px !important;
+    padding: 10px;
+}
+.nav-icon{
+    padding-right: 10px;
+}
+a{
+    padding: 10px 0px 0px 10px !important;
+}
+.navbar-main{
+    display: none;
+}
+.nav-dropdown{
+    position: absolute;
+    top: 10px;
+    right: 10px;
+}
+.dot3{
+    font-size: 30px;
+    position: absolute;
+    right: 10px;
+}
+a{
+    text-decoration: none !important;
+}
+.dropdown{
+    width: 120px;
+    position: absolute !important;
+    right: 10px;
+    top: 40px;
+    border-radius: 5px;
+    text-align: left;
+    background-color: rgb(40, 38, 29);
+    display: none;
+}
+.drop-a{
+    color: beige;
+    font-size: 12px;
+    padding: 10px 10px 10px 10px !important;
+}
+.ll{
+    color: rgb(40, 38, 29) !important;
+}
+.service-main{
+    display: flex;
+    justify-content: space-evenly;
+}
+.service{
+    height: 80px;
+    width: 22%;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    position: relative;
+    border-radius: 10px;
+}
+.img{
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    height: 50px;
+    border-radius: 50%;
+}
+.service-name{
+    margin-top: 75%;
+    padding: 0px 20px 0px 20px;
+    font-size: 12px;
+}
